@@ -1,1 +1,1 @@
-# steganography
+Steganography is the art and science of concealing information within digital media such as images, audio files, or videos, without visibly altering the original content. In this digital age, with the rise of data privacy concerns and the need for secure communication channels, steganography plays a crucial role in ensuring the confidentiality of sensitive information. ![image](https://github.com/jaspreetkalsii/steganography/assets/164162487/fb50aea4-2ee9-462d-91e3-a9e47d5680fc)
